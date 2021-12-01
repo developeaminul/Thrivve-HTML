@@ -1,0 +1,15 @@
+.figure-item-style:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .trending-area .slider-trending .swiper-wrapper .swiper-slide .tr-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .trending-area .slider-blog .swiper-wrapper .swiper-slide .tr-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .blog-area .slider-trending .swiper-wrapper .swiper-slide .tr-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .blog-area .slider-blog .swiper-wrapper .swiper-slide .tr-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .tr-bitem:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .magazine-area .magazine-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .lifestyle-area .lifeStyle-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .magazine-area-details .magazine-details-area .pdfContent .pdfContent-page .magazine-info .details-img:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .magazine-area-details .magazine-details-area .sidebar-widget .free-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip, .media-kit-area .media-kit-item:hover figure figcaption .caption-area .books-title .download-books:hover .pdf-tooltip {
+   display: none;
+ }
+ .heart a i:before{
+   padding: 10px !important;
+   color: #FFFFFF !important;
+   font-size: 16px !important;
+   background: -webkit-gradient(linear, left top, left bottom, from(#D8AE19 100%), to(#D8AE19 35%)) !important;
+   background: linear-gradient(180deg, #D8AE19 100%, #D8AE19 35%) !important;
+   mix-blend-mode: normal !important;
+   border-radius: 50px !important;
+   -webkit-transition: all 0.3s ease-in-out !important;
+   transition: all 0.3s ease-in-out !important;
+}
+ }
